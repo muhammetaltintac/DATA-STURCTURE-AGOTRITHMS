@@ -1,0 +1,2 @@
+C:\Users\DELL\Desktop\YAZILIM\UDEMY DATA STRUCTURE AND ALGORITHM COURSE (ABDUL BARI)\Essential C and C++ Concepts\Pointers\Pointers4 (pointers to structure)\Debug\Pointers4 (pointers to structure).exe
+C:\Users\DELL\Desktop\YAZILIM\UDEMY DATA STRUCTURE AND ALGORITHM COURSE (ABDUL BARI)\Essential C and C++ Concepts\Pointers\Pointers4 (pointers to structure)\Debug\Pointers4 (pointers to structure).pdb

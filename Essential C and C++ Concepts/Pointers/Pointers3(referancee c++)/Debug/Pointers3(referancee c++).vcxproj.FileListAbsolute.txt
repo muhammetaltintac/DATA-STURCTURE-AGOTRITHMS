@@ -1,0 +1,2 @@
+C:\Users\DELL\Desktop\YAZILIM\UDEMY DATA STRUCTURE AND ALGORITHM COURSE (ABDUL BARI)\Essential C and C++ Concepts\Pointers\Pointers3(referancee c++)\Debug\Pointers3(referancee c++).exe
+C:\Users\DELL\Desktop\YAZILIM\UDEMY DATA STRUCTURE AND ALGORITHM COURSE (ABDUL BARI)\Essential C and C++ Concepts\Pointers\Pointers3(referancee c++)\Debug\Pointers3(referancee c++).pdb
