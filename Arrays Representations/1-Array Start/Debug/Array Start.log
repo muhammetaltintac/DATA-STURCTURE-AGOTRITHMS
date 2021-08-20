@@ -1,0 +1,8 @@
+﻿  Array Start.cpp
+C:\Users\DELL\Desktop\YAZILIM\UDEMY DATA STRUCTURE AND ALGORITHM COURSE (ABDUL BARI)\Arrays Representations\Array Start\Array Start.cpp(18,12): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 2 değişen sayıda bağımsız değişkenin türü 'int (*)[5]'
+C:\Users\DELL\Desktop\YAZILIM\UDEMY DATA STRUCTURE AND ALGORITHM COURSE (ABDUL BARI)\Arrays Representations\Array Start\Array Start.cpp(19,12): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 2 değişen sayıda bağımsız değişkenin türü 'int *'
+C:\Users\DELL\Desktop\YAZILIM\UDEMY DATA STRUCTURE AND ALGORITHM COURSE (ABDUL BARI)\Arrays Representations\Array Start\Array Start.cpp(20,12): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 2 değişen sayıda bağımsız değişkenin türü 'int *'
+C:\Users\DELL\Desktop\YAZILIM\UDEMY DATA STRUCTURE AND ALGORITHM COURSE (ABDUL BARI)\Arrays Representations\Array Start\Array Start.cpp(21,12): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 2 değişen sayıda bağımsız değişkenin türü 'int *'
+C:\Users\DELL\Desktop\YAZILIM\UDEMY DATA STRUCTURE AND ALGORITHM COURSE (ABDUL BARI)\Arrays Representations\Array Start\Array Start.cpp(6,9): warning C4101: 'array': yerel değişken başvurusu kaldırıldı
+C:\Users\DELL\Desktop\YAZILIM\UDEMY DATA STRUCTURE AND ALGORITHM COURSE (ABDUL BARI)\Arrays Representations\Array Start\Array Start.cpp(10,9): warning C4101: 'A1': yerel değişken başvurusu kaldırıldı
+  Array Start.vcxproj -> C:\Users\DELL\Desktop\YAZILIM\UDEMY DATA STRUCTURE AND ALGORITHM COURSE (ABDUL BARI)\Arrays Representations\Array Start\Debug\Array Start.exe
