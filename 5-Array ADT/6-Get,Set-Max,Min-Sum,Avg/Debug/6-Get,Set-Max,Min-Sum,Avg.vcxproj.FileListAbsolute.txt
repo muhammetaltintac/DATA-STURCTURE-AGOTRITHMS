@@ -1,0 +1,2 @@
+C:\Users\DELL\Desktop\YAZILIM\UDEMY DATA STRUCTURE AND ALGORITHM COURSE (ABDUL BARI)\5-Array ADT\6-Get,Set-Max,Min-Sum,Avg\Debug\6-Get,Set-Max,Min-Sum,Avg.exe
+C:\Users\DELL\Desktop\YAZILIM\UDEMY DATA STRUCTURE AND ALGORITHM COURSE (ABDUL BARI)\5-Array ADT\6-Get,Set-Max,Min-Sum,Avg\Debug\6-Get,Set-Max,Min-Sum,Avg.pdb
